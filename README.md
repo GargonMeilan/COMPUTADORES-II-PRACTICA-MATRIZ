@@ -1,4 +1,7 @@
 # COMPUTADORES-II-PRACTICA-MATRIZ NOTA: 10
+Martin Domingo Sánchez 
+Jon García Gozález 
+
 Manejar una matriz de m*n
 
 Las dimensiones de las filas y columnas de la matriz m,n, pueden ser hasta 99
